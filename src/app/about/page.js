@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { FiTarget, FiAward, FiShield, FiUsers } from 'react-icons/fi';
+import { FiTarget, FiAward, FiShield, FiUsers, FiTruck } from 'react-icons/fi';
 
 export const metadata = {
   title: 'আমাদের সম্পর্কে | Electric Shop',
